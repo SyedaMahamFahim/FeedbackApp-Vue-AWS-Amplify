@@ -1,0 +1,8 @@
+type FeedbackForm @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  fullname: String
+  feedback: String
+  email: AWSEmail
+  feedbackSubmitted: Boolean
+  avatarImage: String
+} 

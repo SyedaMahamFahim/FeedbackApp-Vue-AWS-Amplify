@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3feedbackappvueamplifystoraged6313566",
+  "bucketName": "feedbackapp-vue-amplify-storage-d6313566",
+  "policyUUID": "6d93afbd",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
